@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31e5b3ce-f30d-404b-87da-3f00d566040a" name="Default Changelist" comment="" />
+    <list default="true" id="31e5b3ce-f30d-404b-87da-3f00d566040a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/demo/observer/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/demo/observer/Dad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/demo/observer/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/demo/observer/Mom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/demo/observer/Observes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/demo/proxy/MoveAble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/demo/proxy/Tank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternPractice/META-INF/DesignPatternPractice.kotlin_module" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +26,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1yR0tBXEe5JAEfqMoZZTuapWGfo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -27,6 +41,8 @@
       <recent name="com.demo.strategy" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.demo.proxy" />
+      <recent name="com.demo.observer" />
       <recent name="com.demo.strategy" />
     </key>
   </component>
@@ -42,7 +58,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Tank">
+    <configuration name="Child" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.observer.Child" />
+      <module name="DesignPatternPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.demo.strategy.Main" />
       <module name="DesignPatternPractice" />
@@ -53,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sorter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.strategy.Sorter" />
+    <configuration name="Tank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.proxy.Tank" />
       <module name="DesignPatternPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.demo.strategy.*" />
+          <option name="PATTERN" value="com.demo.proxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,10 +95,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Child" />
+      <item itemvalue="Application.Tank" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tank" />
+        <item itemvalue="Application.Child" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Sorter" />
       </list>
     </recent_temporary>
   </component>
@@ -87,11 +122,29 @@
       <workItem from="1632217613282" duration="4059000" />
       <workItem from="1632310844755" duration="265000" />
       <workItem from="1632311182281" duration="25000" />
-      <workItem from="1632311229415" duration="4594000" />
+      <workItem from="1632311229415" duration="5266000" />
+      <workItem from="1632396115624" duration="2381000" />
+      <workItem from="1632478131247" duration="769000" />
+      <workItem from="1632560157498" duration="602000" />
+      <workItem from="1633088694239" duration="1797000" />
+      <workItem from="1633427752930" duration="7939000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

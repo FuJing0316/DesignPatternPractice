@@ -2,15 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e5b3ce-f30d-404b-87da-3f00d566040a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/demo/observer/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/demo/observer/Dad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/demo/observer/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/demo/observer/Mom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/demo/observer/Observes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/demo/proxy/MoveAble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/demo/proxy/Tank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_all_3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/spring_aop/v1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/spring_aop/v1/Tank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/spring_aop/v1/TimeInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/spring_aop/v2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/spring_aop/v2/Tank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/spring_aop/v2/TimeProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/app.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/auto-app.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternPractice/META-INF/DesignPatternPractice.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatternPractice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternPractice/com/demo/strategy/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternPractice/com/demo/strategy/CatHeightComparetor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternPractice/com/demo/strategy/CatWeightComparetor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternPractice/com/demo/strategy/ComparableInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternPractice/com/demo/strategy/ComparetorInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternPractice/com/demo/strategy/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternPractice/com/demo/strategy/DogAgeComparetor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternPractice/com/demo/strategy/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternPractice/com/demo/strategy/Sorter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/observer/Child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/observer/Dad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/observer/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/observer/Mom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/observer/Observes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/proxy/MoveAble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/proxy/Tank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/strategy/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/strategy/CatHeightComparetor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/strategy/CatWeightComparetor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/strategy/ComparableInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/strategy/ComparetorInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/strategy/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/strategy/DogAgeComparetor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/strategy/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/strategy/Sorter.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,18 +69,42 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\D\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../software/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="C:\D\software\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1yR0tBXEe5JAEfqMoZZTuapWGfo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/demo/spring_aop/v2" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\D\my_codespace\DesignPatternPractice\src\main\java\com\demo\spring_aop\v2" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.demo.spring_aop.v2" />
       <recent name="com.demo.strategy" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.demo.proxy.cglib" />
       <recent name="com.demo.proxy" />
       <recent name="com.demo.observer" />
       <recent name="com.demo.strategy" />
@@ -58,7 +122,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Tank">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Child" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.demo.observer.Child" />
       <module name="DesignPatternPractice" />
@@ -72,22 +136,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.strategy.Main" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.spring_aop.v1.Main" />
       <module name="DesignPatternPractice" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.spring_aop.v1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.spring_aop.v2.Main" />
+      <module name="DesignPatternPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.spring_aop.v2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.proxy.cglib.Main" />
+      <module name="DesignPatternPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.proxy.cglib.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Tank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.proxy.Tank" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.proxy.jdk.Tank" />
       <module name="DesignPatternPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.demo.proxy.*" />
+          <option name="PATTERN" value="com.demo.proxy.jdk.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,15 +189,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Child" />
       <item itemvalue="Application.Tank" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Tank" />
-        <item itemvalue="Application.Child" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Child" />
       </list>
     </recent_temporary>
   </component>
@@ -127,8 +224,16 @@
       <workItem from="1632478131247" duration="769000" />
       <workItem from="1632560157498" duration="602000" />
       <workItem from="1633088694239" duration="1797000" />
-      <workItem from="1633427752930" duration="7939000" />
+      <workItem from="1633427752930" duration="16434000" />
     </task>
+    <task id="LOCAL-00001" summary="观察者模式、策略模式、JDK动态代理练习">
+      <created>1633514450340</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633514450341</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,5 +251,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="观察者模式、策略模式、JDK动态代理练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="观察者模式、策略模式、JDK动态代理练习" />
   </component>
 </project>

@@ -2,55 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e5b3ce-f30d-404b-87da-3f00d566040a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_all_3_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/spring_aop/v1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/spring_aop/v1/Tank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/spring_aop/v1/TimeInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/spring_aop/v2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/spring_aop/v2/Tank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/spring_aop/v2/TimeProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/app.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/auto-app.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatternPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatternPractice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternPractice/com/demo/strategy/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternPractice/com/demo/strategy/CatHeightComparetor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternPractice/com/demo/strategy/CatWeightComparetor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternPractice/com/demo/strategy/ComparableInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternPractice/com/demo/strategy/ComparetorInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternPractice/com/demo/strategy/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternPractice/com/demo/strategy/DogAgeComparetor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternPractice/com/demo/strategy/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternPractice/com/demo/strategy/Sorter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/observer/Child.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/observer/Dad.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/observer/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/observer/Mom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/observer/Observes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/proxy/MoveAble.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/proxy/Tank.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/strategy/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/strategy/CatHeightComparetor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/strategy/CatWeightComparetor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/strategy/ComparableInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/strategy/ComparetorInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/strategy/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/strategy/DogAgeComparetor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/strategy/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/strategy/Sorter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/spring_aop/v2/TimeProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/demo/spring_aop/v2/TimeProxy.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -224,7 +177,7 @@
       <workItem from="1632478131247" duration="769000" />
       <workItem from="1632560157498" duration="602000" />
       <workItem from="1633088694239" duration="1797000" />
-      <workItem from="1633427752930" duration="16434000" />
+      <workItem from="1633427752930" duration="17190000" />
     </task>
     <task id="LOCAL-00001" summary="观察者模式、策略模式、JDK动态代理练习">
       <created>1633514450340</created>
@@ -233,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633514450341</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="cglib动态代理、spring aop 练习">
+      <created>1633531569422</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1633531569422</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,6 +214,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="观察者模式、策略模式、JDK动态代理练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="观察者模式、策略模式、JDK动态代理练习" />
+    <MESSAGE value="cglib动态代理、spring aop 练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="cglib动态代理、spring aop 练习" />
   </component>
 </project>

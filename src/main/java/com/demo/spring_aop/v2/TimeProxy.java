@@ -7,7 +7,7 @@ import org.aspectj.lang.annotation.Before;
 /**
  * @Author: fujing
  * @Date: 2021/10/6
- * @Description: 增强
+ * @Description: 切面类
  * @Version: 1.0
  */
 @Aspect

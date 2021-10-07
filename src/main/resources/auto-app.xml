@@ -7,7 +7,7 @@
         http://www.springframework.org/schema/aop
         http://www.springframework.org/schema/aop/spring-aop-4.2.xsd">
 
-    <!--spring aop auto config file-->
+    <!--spring aop auto-config file-->
 
     <!--bean define-->
     <bean id="tank" class="com.demo.spring_aop.v2.Tank"/>
